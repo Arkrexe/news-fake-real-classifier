@@ -52,3 +52,10 @@ pip install -r requirements.txt
 
 # Run Streamlit app
 streamlit run app.py
+
+## 📂 Dataset Download
+
+Due to GitHub file size limitations, you can download the datasets here:
+
+- [Download True.csv (Google Drive)](https://drive.google.com/file/d/1oGe0PQYLwJ_6YAmTamAWIarL3lzv1B5R/view?usp=sharing)
+- [Download Fake.csv (Google Drive)](https://drive.google.com/file/d/1E5RgxD_r4CYbMZJp69y-W39sewgEvAEg/view?usp=sharing)
